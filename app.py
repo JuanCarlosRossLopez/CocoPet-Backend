@@ -38,7 +38,10 @@ def api_info():
             'files': '/api/files',
             'data': '/api/data/<filename>',
             'generate_map': '/api/map/<filename>',
-            'analytics': '/api/analytics/<filename>'
+            'analytics': '/api/analytics/<filename>',
+            'charts':'/api/charts/<filename>',
+            'charts':'/charts/<filename>/trend',
+            'charts':'/charts/<filename>/heatmap'
         },
         'documentation': 'Ver API_DOCUMENTATION.md para más detalles'
     })
