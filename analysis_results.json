@@ -1,0 +1,1084 @@
+{
+  "cluster_analysis": {
+    "1": {
+      "total_ventas": 461,
+      "ingresos_totales": "279307",
+      "coordenadas_centro": {
+        "lat": 21.163045465781693,
+        "lng": -86.85194097986349
+      },
+      "categoria_dominante": "Medicamento",
+      "marca_dominante": "Nexgard",
+      "productos_populares": {
+        "nexgard spectra 15-30kg": 68,
+        "nexgard spectra 30-60kg": 60,
+        "nexgard spectra 7.6-15kg": 43
+      },
+      "ventas_por_categoria": {
+        "Medicamento": 252,
+        "Alimento": 203,
+        "Otro": 6
+      },
+      "precio_promedio": 605.8720173535792,
+      "dia_semana_popular": "Monday"
+    },
+    "7": {
+      "total_ventas": 184,
+      "ingresos_totales": "99093",
+      "coordenadas_centro": {
+        "lat": 21.158999584777153,
+        "lng": -86.91443476264254
+      },
+      "categoria_dominante": "Medicamento",
+      "marca_dominante": "Nexgard",
+      "productos_populares": {
+        "nexgard spectra 15-30kg": 32,
+        "nexgard spectra 3.6-7.5kg": 26,
+        "nexgard spectra 30-60kg": 25
+      },
+      "ventas_por_categoria": {
+        "Medicamento": 122,
+        "Alimento": 52,
+        "Otro": 10
+      },
+      "precio_promedio": 538.5489130434783,
+      "dia_semana_popular": "Monday"
+    },
+    "3": {
+      "total_ventas": 333,
+      "ingresos_totales": "230245",
+      "coordenadas_centro": {
+        "lat": 21.189325959960748,
+        "lng": -86.87589310158613
+      },
+      "categoria_dominante": "Medicamento",
+      "marca_dominante": "Nexgard",
+      "productos_populares": {
+        "nexgard spectra 15-30kg": 54,
+        "nexgard spectra 30-60kg": 53,
+        "nexgard spectra 7.6-15kg": 48
+      },
+      "ventas_por_categoria": {
+        "Medicamento": 195,
+        "Alimento": 132,
+        "Otro": 6
+      },
+      "precio_promedio": 691.4264264264265,
+      "dia_semana_popular": "Monday"
+    },
+    "0": {
+      "total_ventas": 362,
+      "ingresos_totales": "225546",
+      "coordenadas_centro": {
+        "lat": 21.152136557249708,
+        "lng": -86.88568128041487
+      },
+      "categoria_dominante": "Alimento",
+      "marca_dominante": "Nupec",
+      "productos_populares": {
+        "nexgard spectra 15-30kg": 59,
+        "nupec adulto razas pequeñas 8kg": 41,
+        "nexgard spectra 30-60kg": 37
+      },
+      "ventas_por_categoria": {
+        "Alimento": 186,
+        "Medicamento": 165,
+        "Otro": 11
+      },
+      "precio_promedio": 623.0552486187845,
+      "dia_semana_popular": "Tuesday"
+    },
+    "5": {
+      "total_ventas": 334,
+      "ingresos_totales": "193100",
+      "coordenadas_centro": {
+        "lat": 21.184819693021904,
+        "lng": -86.83197440952779
+      },
+      "categoria_dominante": "Medicamento",
+      "marca_dominante": "Nexgard",
+      "productos_populares": {
+        "nexgard spectra 30-60kg": 69,
+        "nexgard spectra 15-30kg": 42,
+        "nexgard spectra 7.6-15kg": 35
+      },
+      "ventas_por_categoria": {
+        "Medicamento": 197,
+        "Alimento": 126,
+        "Otro": 11
+      },
+      "precio_promedio": 578.1437125748503,
+      "dia_semana_popular": "Thursday"
+    },
+    "6": {
+      "total_ventas": 256,
+      "ingresos_totales": "204032",
+      "coordenadas_centro": {
+        "lat": 21.14048907511105,
+        "lng": -86.84722040786647
+      },
+      "categoria_dominante": "Alimento",
+      "marca_dominante": "Nupec",
+      "productos_populares": {
+        "nupec adulto razas pequeñas 8kg": 37,
+        "nupec adulto razas medianas/grandes 20kg": 33,
+        "nexgard spectra 15-30kg": 31
+      },
+      "ventas_por_categoria": {
+        "Alimento": 168,
+        "Medicamento": 80,
+        "Otro": 8
+      },
+      "precio_promedio": 797.0,
+      "dia_semana_popular": "Monday"
+    },
+    "4": {
+      "total_ventas": 211,
+      "ingresos_totales": "233798",
+      "coordenadas_centro": {
+        "lat": 21.113928127485167,
+        "lng": -86.87375845641414
+      },
+      "categoria_dominante": "Alimento",
+      "marca_dominante": "Nupec",
+      "productos_populares": {
+        "nupec adulto razas medianas/grandes 20kg": 39,
+        "nupec felino adulto indoor 5kg": 15,
+        "nupec adulto razas medianas/grandes 5kg": 14
+      },
+      "ventas_por_categoria": {
+        "Alimento": 170,
+        "Medicamento": 39,
+        "Otro": 2
+      },
+      "precio_promedio": 1108.047393364929,
+      "dia_semana_popular": "Thursday"
+    },
+    "2": {
+      "total_ventas": 1,
+      "ingresos_totales": "1800",
+      "coordenadas_centro": {
+        "lat": 20.6350803375244,
+        "lng": -87.0852584838867
+      },
+      "categoria_dominante": "Alimento",
+      "marca_dominante": "Nupec",
+      "productos_populares": {
+        "nupec adulto razas medianas/grandes 20kg": 1
+      },
+      "ventas_por_categoria": {
+        "Alimento": 1
+      },
+      "precio_promedio": 1800.0,
+      "dia_semana_popular": "Friday"
+    }
+  },
+  "feature_importance": {
+    "precio": {
+      "latitud": 0.19656764245179664,
+      "longitud": 0.16269203628796766,
+      "dia_semana": 0.04801943733931745,
+      "mes": 0.02661456904472025,
+      "dia_mes": 0.07583658286649099,
+      "semana_año": 0.06320533760466535,
+      "categoria_encoded": 0.3893502040321244,
+      "marca_encoded": 0.02439309296429332,
+      "cluster": 0.013321097408624024
+    },
+    "cantidad": {
+      "latitud": 0.17481677427288467,
+      "longitud": 0.18847034133025284,
+      "dia_semana": 0.034748145726755095,
+      "mes": 0.0226673606897514,
+      "dia_mes": 0.06707841799335917,
+      "semana_año": 0.06032719435289185,
+      "categoria_encoded": 0.39529396512801807,
+      "marca_encoded": 0.03827012938523032,
+      "cluster": 0.018327671120856624
+    }
+  },
+  "zone_predictions": {
+    "1": {
+      "info_zona": {
+        "total_ventas": 461,
+        "ingresos_totales": "279307",
+        "coordenadas_centro": {
+          "lat": 21.163045465781693,
+          "lng": -86.85194097986349
+        },
+        "categoria_dominante": "Medicamento",
+        "marca_dominante": "Nexgard",
+        "productos_populares": {
+          "nexgard spectra 15-30kg": 68,
+          "nexgard spectra 30-60kg": 60,
+          "nexgard spectra 7.6-15kg": 43
+        },
+        "ventas_por_categoria": {
+          "Medicamento": 252,
+          "Alimento": 203,
+          "Otro": 6
+        },
+        "precio_promedio": 605.8720173535792,
+        "dia_semana_popular": "Monday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 763.29,
+            "cantidad_estimada": 4.19,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 360.0,
+            "cantidad_estimada": 1.03,
+            "cluster_asignado": 1
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 836.49,
+            "cantidad_estimada": 4.27,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 361.62,
+            "cantidad_estimada": 1.0,
+            "cluster_asignado": 1
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 885.57,
+            "cantidad_estimada": 4.72,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 362.4,
+            "cantidad_estimada": 1.0,
+            "cluster_asignado": 1
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 857.72,
+            "cantidad_estimada": 5.01,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 363.37,
+            "cantidad_estimada": 1.04,
+            "cluster_asignado": 1
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1048.35,
+            "cantidad_estimada": 5.91,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 362.76,
+            "cantidad_estimada": 1.06,
+            "cluster_asignado": 1
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 1021.08,
+            "cantidad_estimada": 5.79,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 363.88,
+            "cantidad_estimada": 1.07,
+            "cluster_asignado": 1
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 1021.08,
+            "cantidad_estimada": 5.89,
+            "cluster_asignado": 1
+          },
+          "medicamento": {
+            "precio_estimado": 358.4,
+            "cantidad_estimada": 1.11,
+            "cluster_asignado": 1
+          }
+        }
+      }
+    },
+    "7": {
+      "info_zona": {
+        "total_ventas": 184,
+        "ingresos_totales": "99093",
+        "coordenadas_centro": {
+          "lat": 21.158999584777153,
+          "lng": -86.91443476264254
+        },
+        "categoria_dominante": "Medicamento",
+        "marca_dominante": "Nexgard",
+        "productos_populares": {
+          "nexgard spectra 15-30kg": 32,
+          "nexgard spectra 3.6-7.5kg": 26,
+          "nexgard spectra 30-60kg": 25
+        },
+        "ventas_por_categoria": {
+          "Medicamento": 122,
+          "Alimento": 52,
+          "Otro": 10
+        },
+        "precio_promedio": 538.5489130434783,
+        "dia_semana_popular": "Monday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 1312.02,
+            "cantidad_estimada": 10.88,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 355.58,
+            "cantidad_estimada": 1.52,
+            "cluster_asignado": 7
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 1315.36,
+            "cantidad_estimada": 10.92,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 357.28,
+            "cantidad_estimada": 1.49,
+            "cluster_asignado": 7
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 1345.07,
+            "cantidad_estimada": 11.24,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 358.06,
+            "cantidad_estimada": 1.5,
+            "cluster_asignado": 7
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 1390.73,
+            "cantidad_estimada": 12.38,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 359.82,
+            "cantidad_estimada": 1.56,
+            "cluster_asignado": 7
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1352.62,
+            "cantidad_estimada": 12.14,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 360.06,
+            "cantidad_estimada": 1.56,
+            "cluster_asignado": 7
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 1292.16,
+            "cantidad_estimada": 11.9,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 359.42,
+            "cantidad_estimada": 1.52,
+            "cluster_asignado": 7
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 1297.26,
+            "cantidad_estimada": 12.08,
+            "cluster_asignado": 7
+          },
+          "medicamento": {
+            "precio_estimado": 354.14,
+            "cantidad_estimada": 1.59,
+            "cluster_asignado": 7
+          }
+        }
+      }
+    },
+    "3": {
+      "info_zona": {
+        "total_ventas": 333,
+        "ingresos_totales": "230245",
+        "coordenadas_centro": {
+          "lat": 21.189325959960748,
+          "lng": -86.87589310158613
+        },
+        "categoria_dominante": "Medicamento",
+        "marca_dominante": "Nexgard",
+        "productos_populares": {
+          "nexgard spectra 15-30kg": 54,
+          "nexgard spectra 30-60kg": 53,
+          "nexgard spectra 7.6-15kg": 48
+        },
+        "ventas_por_categoria": {
+          "Medicamento": 195,
+          "Alimento": 132,
+          "Otro": 6
+        },
+        "precio_promedio": 691.4264264264265,
+        "dia_semana_popular": "Monday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 1033.83,
+            "cantidad_estimada": 9.81,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 361.62,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 3
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 954.1,
+            "cantidad_estimada": 9.81,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 359.35,
+            "cantidad_estimada": 1.14,
+            "cluster_asignado": 3
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 1000.14,
+            "cantidad_estimada": 10.16,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 359.39,
+            "cantidad_estimada": 1.13,
+            "cluster_asignado": 3
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 996.6,
+            "cantidad_estimada": 9.44,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 359.57,
+            "cantidad_estimada": 1.16,
+            "cluster_asignado": 3
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1018.34,
+            "cantidad_estimada": 9.52,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 356.54,
+            "cantidad_estimada": 1.16,
+            "cluster_asignado": 3
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 991.11,
+            "cantidad_estimada": 9.42,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 355.77,
+            "cantidad_estimada": 1.25,
+            "cluster_asignado": 3
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 997.61,
+            "cantidad_estimada": 9.42,
+            "cluster_asignado": 3
+          },
+          "medicamento": {
+            "precio_estimado": 352.47,
+            "cantidad_estimada": 1.36,
+            "cluster_asignado": 3
+          }
+        }
+      }
+    },
+    "0": {
+      "info_zona": {
+        "total_ventas": 362,
+        "ingresos_totales": "225546",
+        "coordenadas_centro": {
+          "lat": 21.152136557249708,
+          "lng": -86.88568128041487
+        },
+        "categoria_dominante": "Alimento",
+        "marca_dominante": "Nupec",
+        "productos_populares": {
+          "nexgard spectra 15-30kg": 59,
+          "nupec adulto razas pequeñas 8kg": 41,
+          "nexgard spectra 30-60kg": 37
+        },
+        "ventas_por_categoria": {
+          "Alimento": 186,
+          "Medicamento": 165,
+          "Otro": 11
+        },
+        "precio_promedio": 623.0552486187845,
+        "dia_semana_popular": "Tuesday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 512.6,
+            "cantidad_estimada": 4.35,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 361.49,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 0
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 449.74,
+            "cantidad_estimada": 3.76,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 362.18,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 0
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 458.54,
+            "cantidad_estimada": 3.74,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 360.92,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 0
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 476.57,
+            "cantidad_estimada": 3.64,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 361.01,
+            "cantidad_estimada": 1.11,
+            "cluster_asignado": 0
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 553.61,
+            "cantidad_estimada": 3.94,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 360.05,
+            "cantidad_estimada": 1.14,
+            "cluster_asignado": 0
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 586.92,
+            "cantidad_estimada": 3.91,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 359.3,
+            "cantidad_estimada": 1.13,
+            "cluster_asignado": 0
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 586.92,
+            "cantidad_estimada": 4.64,
+            "cluster_asignado": 0
+          },
+          "medicamento": {
+            "precio_estimado": 351.63,
+            "cantidad_estimada": 1.31,
+            "cluster_asignado": 0
+          }
+        }
+      }
+    },
+    "5": {
+      "info_zona": {
+        "total_ventas": 334,
+        "ingresos_totales": "193100",
+        "coordenadas_centro": {
+          "lat": 21.184819693021904,
+          "lng": -86.83197440952779
+        },
+        "categoria_dominante": "Medicamento",
+        "marca_dominante": "Nexgard",
+        "productos_populares": {
+          "nexgard spectra 30-60kg": 69,
+          "nexgard spectra 15-30kg": 42,
+          "nexgard spectra 7.6-15kg": 35
+        },
+        "ventas_por_categoria": {
+          "Medicamento": 197,
+          "Alimento": 126,
+          "Otro": 11
+        },
+        "precio_promedio": 578.1437125748503,
+        "dia_semana_popular": "Thursday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 1086.04,
+            "cantidad_estimada": 8.18,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 360.04,
+            "cantidad_estimada": 1.1,
+            "cluster_asignado": 5
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 998.95,
+            "cantidad_estimada": 7.51,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 359.66,
+            "cantidad_estimada": 1.05,
+            "cluster_asignado": 5
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 974.0,
+            "cantidad_estimada": 6.52,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 357.78,
+            "cantidad_estimada": 1.05,
+            "cluster_asignado": 5
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 1021.3,
+            "cantidad_estimada": 6.98,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 359.41,
+            "cantidad_estimada": 1.05,
+            "cluster_asignado": 5
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1045.64,
+            "cantidad_estimada": 7.59,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 358.76,
+            "cantidad_estimada": 1.05,
+            "cluster_asignado": 5
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 894.07,
+            "cantidad_estimada": 7.27,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 357.84,
+            "cantidad_estimada": 1.05,
+            "cluster_asignado": 5
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 894.07,
+            "cantidad_estimada": 7.27,
+            "cluster_asignado": 5
+          },
+          "medicamento": {
+            "precio_estimado": 356.04,
+            "cantidad_estimada": 1.08,
+            "cluster_asignado": 5
+          }
+        }
+      }
+    },
+    "6": {
+      "info_zona": {
+        "total_ventas": 256,
+        "ingresos_totales": "204032",
+        "coordenadas_centro": {
+          "lat": 21.14048907511105,
+          "lng": -86.84722040786647
+        },
+        "categoria_dominante": "Alimento",
+        "marca_dominante": "Nupec",
+        "productos_populares": {
+          "nupec adulto razas pequeñas 8kg": 37,
+          "nupec adulto razas medianas/grandes 20kg": 33,
+          "nexgard spectra 15-30kg": 31
+        },
+        "ventas_por_categoria": {
+          "Alimento": 168,
+          "Medicamento": 80,
+          "Otro": 8
+        },
+        "precio_promedio": 797.0,
+        "dia_semana_popular": "Monday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 958.39,
+            "cantidad_estimada": 6.29,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 362.2,
+            "cantidad_estimada": 1.26,
+            "cluster_asignado": 6
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 984.44,
+            "cantidad_estimada": 6.52,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 363.4,
+            "cantidad_estimada": 1.26,
+            "cluster_asignado": 6
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 1000.04,
+            "cantidad_estimada": 7.38,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 364.52,
+            "cantidad_estimada": 1.31,
+            "cluster_asignado": 6
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 1023.01,
+            "cantidad_estimada": 7.96,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 365.4,
+            "cantidad_estimada": 1.29,
+            "cluster_asignado": 6
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1065.01,
+            "cantidad_estimada": 8.38,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 362.5,
+            "cantidad_estimada": 1.32,
+            "cluster_asignado": 6
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 1020.71,
+            "cantidad_estimada": 7.98,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 361.93,
+            "cantidad_estimada": 1.36,
+            "cluster_asignado": 6
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 1020.71,
+            "cantidad_estimada": 8.04,
+            "cluster_asignado": 6
+          },
+          "medicamento": {
+            "precio_estimado": 358.01,
+            "cantidad_estimada": 1.37,
+            "cluster_asignado": 6
+          }
+        }
+      }
+    },
+    "4": {
+      "info_zona": {
+        "total_ventas": 211,
+        "ingresos_totales": "233798",
+        "coordenadas_centro": {
+          "lat": 21.113928127485167,
+          "lng": -86.87375845641414
+        },
+        "categoria_dominante": "Alimento",
+        "marca_dominante": "Nupec",
+        "productos_populares": {
+          "nupec adulto razas medianas/grandes 20kg": 39,
+          "nupec felino adulto indoor 5kg": 15,
+          "nupec adulto razas medianas/grandes 5kg": 14
+        },
+        "ventas_por_categoria": {
+          "Alimento": 170,
+          "Medicamento": 39,
+          "Otro": 2
+        },
+        "precio_promedio": 1108.047393364929,
+        "dia_semana_popular": "Thursday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 1121.33,
+            "cantidad_estimada": 10.95,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 359.74,
+            "cantidad_estimada": 1.25,
+            "cluster_asignado": 4
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 1060.36,
+            "cantidad_estimada": 10.46,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 359.95,
+            "cantidad_estimada": 1.18,
+            "cluster_asignado": 4
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 992.44,
+            "cantidad_estimada": 10.17,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 357.1,
+            "cantidad_estimada": 1.16,
+            "cluster_asignado": 4
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 1089.4,
+            "cantidad_estimada": 11.59,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 356.62,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 4
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1229.83,
+            "cantidad_estimada": 12.54,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 358.61,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 4
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 1264.94,
+            "cantidad_estimada": 12.86,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 357.02,
+            "cantidad_estimada": 1.12,
+            "cluster_asignado": 4
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 1264.94,
+            "cantidad_estimada": 12.86,
+            "cluster_asignado": 4
+          },
+          "medicamento": {
+            "precio_estimado": 354.64,
+            "cantidad_estimada": 1.2,
+            "cluster_asignado": 4
+          }
+        }
+      }
+    },
+    "2": {
+      "info_zona": {
+        "total_ventas": 1,
+        "ingresos_totales": "1800",
+        "coordenadas_centro": {
+          "lat": 20.6350803375244,
+          "lng": -87.0852584838867
+        },
+        "categoria_dominante": "Alimento",
+        "marca_dominante": "Nupec",
+        "productos_populares": {
+          "nupec adulto razas medianas/grandes 20kg": 1
+        },
+        "ventas_por_categoria": {
+          "Alimento": 1
+        },
+        "precio_promedio": 1800.0,
+        "dia_semana_popular": "Friday"
+      },
+      "predicciones_semanales": {
+        "Lunes": {
+          "alimento": {
+            "precio_estimado": 1381.58,
+            "cantidad_estimada": 18.0,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 362.28,
+            "cantidad_estimada": 2.93,
+            "cluster_asignado": 2
+          }
+        },
+        "Martes": {
+          "alimento": {
+            "precio_estimado": 1409.08,
+            "cantidad_estimada": 17.91,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 362.9,
+            "cantidad_estimada": 2.94,
+            "cluster_asignado": 2
+          }
+        },
+        "Miércoles": {
+          "alimento": {
+            "precio_estimado": 1401.38,
+            "cantidad_estimada": 17.91,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 356.1,
+            "cantidad_estimada": 2.94,
+            "cluster_asignado": 2
+          }
+        },
+        "Jueves": {
+          "alimento": {
+            "precio_estimado": 1521.6,
+            "cantidad_estimada": 17.82,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 354.67,
+            "cantidad_estimada": 2.88,
+            "cluster_asignado": 2
+          }
+        },
+        "Viernes": {
+          "alimento": {
+            "precio_estimado": 1566.84,
+            "cantidad_estimada": 17.87,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 355.39,
+            "cantidad_estimada": 2.88,
+            "cluster_asignado": 2
+          }
+        },
+        "Sábado": {
+          "alimento": {
+            "precio_estimado": 1550.49,
+            "cantidad_estimada": 17.87,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 355.34,
+            "cantidad_estimada": 2.88,
+            "cluster_asignado": 2
+          }
+        },
+        "Domingo": {
+          "alimento": {
+            "precio_estimado": 1550.49,
+            "cantidad_estimada": 17.87,
+            "cluster_asignado": 2
+          },
+          "medicamento": {
+            "precio_estimado": 355.14,
+            "cantidad_estimada": 2.89,
+            "cluster_asignado": 2
+          }
+        }
+      }
+    }
+  },
+  "training_date": "2025-07-28T01:39:27.410153",
+  "total_records": 2142,
+  "model_performance": {
+    "clusters": 8,
+    "zones_predicted": 8
+  }
+}

@@ -1,0 +1,51 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# Archivos de configuración y logs
+*.log
+*.sqlite3
+*.db
+*.env
+.env.*
+instance/
+config.py
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Archivos de cache
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Directorios generados por pruebas
+htmlcov/
+.tox/
+.coverage
+.cache/
+.pytest_cache/
+
+# Archivos de testing
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+test-results/
+
+# Archivos de Flask
+flask_session/
