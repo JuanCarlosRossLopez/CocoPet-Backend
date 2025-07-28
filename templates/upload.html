@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Subir Archivo Excel</title>
+</head>
+<body>
+    <h2>Sube tu archivo Excel con datos de ventas:</h2>
+    <form action="/mapa-ventas/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="excel" accept=".xlsx" required>
+        <button type="submit">Subir y Generar Mapa</button>
+    </form>
+</body>
+</html>
