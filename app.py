@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 from modules.mapa_ventas import mapa_ventas_bp
 from modules.api_ventas import api_ventas_bp
+from modules.api_charts import api_charts_bp
 import os
 from dotenv import load_dotenv
 
@@ -25,6 +26,7 @@ else:
 # Registrar blueprints
 app.register_blueprint(mapa_ventas_bp, url_prefix='/mapa-ventas')  # Rutas web existentes
 app.register_blueprint(api_ventas_bp, url_prefix='/api')  # Nuevas rutas API REST
+app.register_blueprint(api_charts_bp,url_prefixs='/charts')
 
 # Endpoint raíz de la API
 @app.route('/api', methods=['GET'])
@@ -38,7 +40,10 @@ def api_info():
             'files': '/api/files',
             'data': '/api/data/<filename>',
             'generate_map': '/api/map/<filename>',
-            'analytics': '/api/analytics/<filename>'
+            'analytics': '/api/analytics/<filename>',
+            'charts':'/api/charts/<filename>',
+            'trend':'/charts/<filename>/trend',
+            'heatmap':'/charts/<filename>/heatmap'
         },
         'documentation': 'Ver API_DOCUMENTATION.md para más detalles'
     })
