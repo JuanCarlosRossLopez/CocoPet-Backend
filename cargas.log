@@ -1,0 +1,149 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:13:09] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:13:10] "GET /mapa-ventas/maps/map_bongopet3_limpio.xlsx.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:15:00] "GET /mapa-ventas/api/productos/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:15:00] "GET /mapa-ventas/api/categorias/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:15:06] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:15:07] "GET /mapa-ventas/maps/map_bongopet3_limpio.xlsx.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:15:37] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx?producto=bravecto+3+meses+ve4de HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:15:37] "GET /mapa-ventas/maps/map_bongopet3_limpio.xlsx.html HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:59:56] "GET /mapa-ventas/api/productos/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 15:59:56] "GET /mapa-ventas/api/categorias/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jul/2025 16:00:01] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 16:24:23] "[33mGET /api/charts/bongopet3_limpio.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 16:24:52] "[33mGET /api/charts/bongopet3_limpio.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\modules\\api_predictions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:10:03] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:10:14] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:10:20] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:13:30] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:13:50] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:root:[2025-07-30 17:14:30.292403] \U0001f4e5 Archivo guardado: bongopet3_limpio.xlsx
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:14:30] "[32mPOST /mapa-ventas/upload HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:14:37] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:14:49] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:14:52] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:15:03] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:15:18] "[33mPOST /upload HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:16:50] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:09] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:16] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:34] "GET /api/predictions HTTP/1.1" 200 -
+INFO:root:[2025-07-30 17:17:42.380966] \U0001f4e5 Archivo guardado: bongopet3_limpio.xlsx
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:42] "[32mPOST /mapa-ventas/upload HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:47] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:47] "[33mOPTIONS /api/train HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:17:57] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:21:06] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:21:34] "GET /api/predictions HTTP/1.1" 200 -
+INFO:root:[2025-07-30 17:22:05.800293] \U0001f4e5 Archivo guardado: bongopet3_limpio.xlsx
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:22:05] "[32mPOST /mapa-ventas/upload HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:22:09] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:22:09] "[33mOPTIONS /api/train HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\modules\\api_train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:28:42] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:28:49] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:root:[2025-07-30 17:30:18.207063] \U0001f4e5 Archivo guardado: bongopet3.xlsx
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:30:18] "[32mPOST /mapa-ventas/upload HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:30:22] "GET /mapa-ventas/ver/bongopet3.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:30:22] "OPTIONS /api/train HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:30:22] "POST /api/train HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:30:22] "OPTIONS /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:30:22] "[35m[1mPOST /api/predictions HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\modules\\api_train.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:werkzeug: * Detected change in 'D:\\proyectosUni\\CocoPet-Backend\\modules\\api_train.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 426-432-320
+INFO:root:[2025-07-30 17:38:31.219328] \U0001f4e5 Archivo guardado: bongopet3_limpio.xlsx
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:38:31] "[32mPOST /mapa-ventas/upload HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:38:35] "GET /mapa-ventas/ver/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:38:35] "OPTIONS /api/train HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:38:35] "POST /api/train HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:38:35] "OPTIONS /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:38:35] "[35m[1mPOST /api/predictions HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:43:18] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:43:28] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:44:26] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:46:19] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:46:23] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:46:39] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:46:45] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:46:46] "GET /api/predictions HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2025 17:49:00] "[33mGET /api/charts/bongopet3_limpio.xlsx HTTP/1.1[0m" 404 -

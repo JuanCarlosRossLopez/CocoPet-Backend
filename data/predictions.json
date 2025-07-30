@@ -1,0 +1,14 @@
+[
+  {
+    "id": "6b340ee1-1af1-4694-88bd-d8f93c026466",
+    "product": "Entrenamiento: 2025-07-30 17:38:35",
+    "category": "Entrenamiento de modelo",
+    "zone": "N/A",
+    "period": "2142 filas, 9 columnas",
+    "predictedSales": 2142,
+    "confidence": 100,
+    "trend": "stable",
+    "previousPeriod": 0,
+    "createdAt": "2025-07-30 17:38:35"
+  }
+]

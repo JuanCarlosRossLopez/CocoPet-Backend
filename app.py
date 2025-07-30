@@ -5,6 +5,8 @@ from modules.api_ventas import api_ventas_bp
 from modules.api_charts import api_charts_bp
 import os
 from dotenv import load_dotenv
+from modules.api_predictions import api_predictions_bp
+from modules.api_train import api_train_bp
 
 # Cargar variables de entorno
 load_dotenv()
@@ -26,7 +28,9 @@ else:
 # Registrar blueprints
 app.register_blueprint(mapa_ventas_bp, url_prefix='/mapa-ventas')  # Rutas web existentes
 app.register_blueprint(api_ventas_bp, url_prefix='/api')  # Nuevas rutas API REST
-app.register_blueprint(api_charts_bp,url_prefixs='/charts')
+app.register_blueprint(api_charts_bp,url_prefix='/charts')
+app.register_blueprint(api_predictions_bp, url_prefix='/api')
+app.register_blueprint(api_train_bp, url_prefix='/api')
 
 # Endpoint raíz de la API
 @app.route('/api', methods=['GET'])
