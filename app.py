@@ -32,7 +32,7 @@ app.register_blueprint(api_ventas_bp, url_prefix='/api')
 app.register_blueprint(api_charts_bp, url_prefix='/charts')
 app.register_blueprint(api_predictions_bp, url_prefix='/api')
 app.register_blueprint(api_train_bp, url_prefix='/api')
-app.register_blueprint(api_chatgpt_bp, url_prefix='/api')  # VetChatbot vive aquí
+app.register_blueprint(api_chatgpt_bp, url_prefix='/api')  
 
 # Endpoint de salud para frontend VetChatbot
 @app.route('/api/health', methods=['GET'])
