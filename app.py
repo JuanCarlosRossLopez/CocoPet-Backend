@@ -52,7 +52,7 @@ def api_info():
             'data': '/api/data/<filename>',
             'generate_map': '/api/map/<filename>',
             'analytics': '/api/analytics/<filename>',
-            'charts': '/api/charts/<filename>',
+            'charts': '/charts/charts/<filename>',
             'trend': '/charts/<filename>/trend',
             'heatmap': '/charts/<filename>/heatmap',
             'chat': '/api/chat'

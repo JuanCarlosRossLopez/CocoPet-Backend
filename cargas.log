@@ -257,3 +257,52 @@ INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 403-983-557
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug: * Detected change in 'C:\\Users\\Daniel\\OneDrive\\Escritorio\\cocopet\\CocoPet-Backend\\modules\\api_charts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug: * Detected change in 'C:\\Users\\Daniel\\OneDrive\\Escritorio\\cocopet\\CocoPet-Backend\\modules\\api_charts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 15:10:19] "GET /charts/charts/bongopet3_limpio.xlsx HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Daniel\\OneDrive\\Escritorio\\cocopet\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug: * Detected change in 'C:\\Users\\Daniel\\OneDrive\\Escritorio\\cocopet\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 15:12:20] "[33mGET /api/charts/bongopet3_limpio.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Daniel\\OneDrive\\Escritorio\\cocopet\\CocoPet-Backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 15:12:47] "[33mGET /api/charts/bongopet3_limpio.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-215-638
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 15:13:03] "[33mGET /api/charts/bongopet3_limpio.xlsx HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Jul/2025 15:13:10] "GET /charts/charts/bongopet3_limpio.xlsx HTTP/1.1" 200 -
